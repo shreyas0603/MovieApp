@@ -1,0 +1,6 @@
+D:\Swabhavsessions\session3\BackendMovieApp\bin\Debug\BackendMovieApp.dll
+D:\Swabhavsessions\session3\BackendMovieApp\bin\Debug\BackendMovieApp.pdb
+D:\Swabhavsessions\session3\BackendMovieApp\obj\Debug\BackendMovieApp.csproj.AssemblyReference.cache
+D:\Swabhavsessions\session3\BackendMovieApp\obj\Debug\BackendMovieApp.csproj.CoreCompileInputs.cache
+D:\Swabhavsessions\session3\BackendMovieApp\obj\Debug\BackendMovieApp.dll
+D:\Swabhavsessions\session3\BackendMovieApp\obj\Debug\BackendMovieApp.pdb
