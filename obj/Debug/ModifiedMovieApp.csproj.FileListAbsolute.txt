@@ -1,0 +1,17 @@
+D:\Swabav sessions\session3\ModifiedMovieApp\bin\Debug\ModifiedMovieApp.exe.config
+D:\Swabav sessions\session3\ModifiedMovieApp\bin\Debug\ModifiedMovieApp.exe
+D:\Swabav sessions\session3\ModifiedMovieApp\bin\Debug\ModifiedMovieApp.pdb
+D:\Swabav sessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.csproj.AssemblyReference.cache
+D:\Swabav sessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.csproj.CoreCompileInputs.cache
+D:\Swabav sessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.exe
+D:\Swabav sessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.pdb
+D:\Swabhavsessions\session3\ModifiedMovieApp\bin\Debug\ModifiedMovieApp.exe.config
+D:\Swabhavsessions\session3\ModifiedMovieApp\bin\Debug\ModifiedMovieApp.exe
+D:\Swabhavsessions\session3\ModifiedMovieApp\bin\Debug\ModifiedMovieApp.pdb
+D:\Swabhavsessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.csproj.AssemblyReference.cache
+D:\Swabhavsessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.csproj.CoreCompileInputs.cache
+D:\Swabhavsessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.exe
+D:\Swabhavsessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.pdb
+D:\Swabhavsessions\session3\ModifiedMovieApp\bin\Debug\BackendMovieApp.dll
+D:\Swabhavsessions\session3\ModifiedMovieApp\bin\Debug\BackendMovieApp.pdb
+D:\Swabhavsessions\session3\ModifiedMovieApp\obj\Debug\ModifiedMovieApp.csproj.CopyComplete
